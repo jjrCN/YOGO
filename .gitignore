@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.ruff_cache/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Local data and experiment outputs
+data/
+datasets/
+output/
+output_*/
+logs/
+runs/
+
+# Checkpoints and generated training copies
+*.ckpt
+*.pth
+*.pt
+train_*.py
+
+# OS/editor files
+.DS_Store
+.idea/
+.vscode/
+*.swp
+

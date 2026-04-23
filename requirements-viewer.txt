@@ -1,0 +1,4 @@
+# Optional dependencies for the interactive viewer modules under scene/viewer/.
+viser
+splines
+
