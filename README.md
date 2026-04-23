@@ -10,7 +10,7 @@
 
 <p align="center">
   <img alt="arXiv" src="https://img.shields.io/badge/arXiv-coming_soon-b31b1b.svg">
-  <a href="https://jjrcn.github.io/YOGO/"><img alt="Project Page" src="https://img.shields.io/badge/Project-Page-2f80ed.svg"></a>
+  <a href="https://jjrcn.github.io/yogo-project-home/"><img alt="Project Page" src="https://img.shields.io/badge/Project-Page-2f80ed.svg"></a>
   <a href="https://huggingface.co/datasets/JiaJinrang/Immersion"><img alt="Data" src="https://img.shields.io/badge/Data-HuggingFace-ffcc4d.svg"></a>
   <a href="LICENSE"><img alt="License" src="https://img.shields.io/badge/License-MIT-green.svg"></a>
 </p>
