@@ -43,7 +43,12 @@ The Immersion Dataset: (A) Heterogeneous multi-sensor capture rigs. (B) Ultra-de
 
 ## News
 
-The arXiv link will be added once it is publicly available.
+- Released:
+  - Training code
+  - Inference code
+  - Four scenes from Immersion v1.0
+- Coming soon:
+  - Evaluation toolkit, including evaluation scripts, Q-Align evaluation code, and the test dataset
 
 ## Project Layout
 
