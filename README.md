@@ -166,6 +166,10 @@ CAMERAS_TXT_BIN_PATH=/path/to/cameras.txt \
 bash render.sh
 ```
 
+## SIBR Visualization
+
+The trained YOGO outputs are compatible with SIBR Viewers and can be visualized directly using the standard 3DGS viewer workflow. Point the viewer to the trained model directory to inspect the reconstructed Gaussian scene interactively.
+
 ## Qualitative Comparison
 
 <p align="center">
@@ -190,3 +194,7 @@ If you find this project useful, please cite:
 This project is released under the MIT License. See [LICENSE](LICENSE) for details.
 
 Third-party code and CUDA extensions under `submodules/` retain their original licenses. Please check the corresponding license files before redistribution or commercial use.
+
+## Acknowledgements
+
+This codebase builds upon and references several excellent open-source 3DGS projects, including [3DGS](https://github.com/graphdeco-inria/gaussian-splatting), [AbsGS](https://github.com/TY424/AbsGS), [Pixel-GS](https://github.com/zhengzhang01/Pixel-GS), and [ResGS](https://github.com/yanzhelyu/ResGS). We sincerely thank the authors for their valuable contributions to the community.
