@@ -181,11 +181,14 @@ The trained YOGO outputs are compatible with SIBR Viewers and can be visualized 
 If you find this project useful, please cite:
 
 ```bibtex
-@article{happyDog,
-  author    = {Jia, Jinrang and Li, Zhenjia and Shi, Yifeng},
-  title     = {You Only Gaussian Once: Controllable 3D Gaussian Splatting for Ultra-Densely Sampled Scenes},
-  journal   = {arXiv preprint arXiv:2511.11233},
-  year      = {2025},
+@misc{jia2026gaussianoncecontrollable3d,
+      title={You Only Gaussian Once: Controllable 3D Gaussian Splatting for Ultra-Densely Sampled Scenes},
+      author={Jinrang Jia and Zhenjia Li and Yifeng Shi},
+      year={2026},
+      eprint={2604.21400},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2604.21400},
 }
 ```
 
